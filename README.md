@@ -1,6 +1,6 @@
 # Saas Subscription Analytics & Data
 ## Business Overview
-This project designs and implements a relational database schema for a modern Software-as-a-service (Saas) platform. The primary goal is to provide data-driven business insights by tracking core operational metrics, including **Monthly Recurring Revenue (MRR)**, user subsscription tier distribution, and active customer behaviour.
+This project designs and implements a relational database schema for a modern Software-as-a-service (Saas) platform. The primary goal is to provide data-driven business insights by tracking core operational metrics, including **Monthly Recurring Revenue (MRR)**, user subscription tier distribution, and active customer behaviour.
 
 ## Table of Contents
 * [Database  Architecture ](#-database-architecture)
