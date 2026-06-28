@@ -6,7 +6,7 @@ This project designs and implements a relational database schema for a modern So
 The architecture consists of three highly structured tables designed with strict data integrity safeguards ('NOT NULL' constarints, positive value 'CHECK' rules, and explicit 'FOREIGN KEY' relationships).
 
 ### Database Blueprint(PostgreSQL Syntax)
-![Saas Database ERD](SAAS ERD.png)
+![Saas Database ERD](SaasS ERD.png)
 
 
 
